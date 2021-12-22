@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi,  👋
 
-<!--
-**ktech960924/ktech960924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=YeEun😊&fontSize=90)
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+[![Yeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktech960924&show_icons=true&theme=radical)](https://github.com/ktech960924/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktech960924)](https://github.com/ktech960924/github-readme-stats)
+
+
+## 🐱‍ tech & learn
+
+<div align=center>
+  
+  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![Angular](https://img.shields.io/badge/AngularJS-DD0031?style=flat-square&logo=Angular&logoColor=black)
+　
+ 
+![CSharp](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=black) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=black) 
+　
+ 
+![java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=black) ![spring](https://img.shields.io/badge/spring/springboot-6DB33F?style=flat-square&logo=spring&logoColor=black)
+　
+ 
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySQL&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/mssql-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=black)
+</div>
