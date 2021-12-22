@@ -1,18 +1,7 @@
 
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=F8B195&height=300&section=header&text=Yeeun&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
 
-
-### Hi,  👋
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=YeEun😊&fontSize=90)
-
-<div align=left>
-
-  [![Yeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktech960924&show_icons=true&theme=radical&count_private=1&hide_rank=1)](https://github.com/ktech960924)
-    
-</div>
-
-<div>
  
 ### Who Am I
 - 🌱
@@ -35,5 +24,13 @@
    
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySQL&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/mssql-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=black)
   
+
+
+
+<div align="center">
+  
+ [![Yeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktech960924&show_icons=true&theme=radical&count_private=1&card_width=8000)](https://github.com/ktech960924)
+
+</div>
 
   
