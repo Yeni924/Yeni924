@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=F8B195&height=300&section=header&text=Hi-Yeeun&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=F8B195&height=300&section=header&text=Hi-YeEun&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
 
  
 ### Who Am I
