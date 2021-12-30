@@ -8,14 +8,6 @@
 - 🥇 
 - 🚅 
 
-### Experience
-- 🎓 
-- 💊 
-- 🌍 
-
-### What I Like
-- 🔵 Game
-- 🍗 chicken
 
 ### Tech & Learn
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![Angular](https://img.shields.io/badge/AngularJS-DD0031?style=flat-square&logo=Angular&logoColor=black)
