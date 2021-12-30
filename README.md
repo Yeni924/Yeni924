@@ -25,11 +25,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySQL&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/mssql-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=black)
   
 
-
-
 <div align="center">
   
- [![Yeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktech960924&show_icons=true&theme=radical&count_private=1&card_width=8000)](https://github.com/ktech960924)
+ [![Yeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeni924&show_icons=true&theme=radical&count_private=1&card_width=8000)](https://github.com/ktech960924)
 
 </div>
 
