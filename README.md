@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=F8B195&height=300&section=header&text=🌹Hi_YeEun🌹&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=#000000&height=300&section=header&text=🌹Hi_YeEun🌹&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
 
 
 ### Tech & Learn
@@ -20,7 +20,7 @@
 
  
 ### Who Am I
-- 📫 ktech960924@gmail.com
-- 📝 https://kwonyeeun.tistory.com
+ 📫 ktech960924@gmail.com
+ 📝 https://kwonyeeun.tistory.com
 
   
