@@ -5,18 +5,9 @@
   
 
 ### ⚙ Tech & I Learn
-- BackEnd
-    - C#,  .Net , java, Spring5  
-    - RDBMS(Ms-sql, Mysql), JPA, Querydsl   
-
-- FrontEnd
-   - HTML5, JavaScript,TypeScript
-   - AngularJS
-    
-- DevOps
-  - Git, SVN
-  - jenkins
-  - aws,docker
+- Back-End:  C#, .Net , java, Spring5,  RDBMS(Ms-sql, Mysql)
+- Front-End: JavaScript, TypeScript, AngularJS, HTML/CSS
+- DevOps : AWS, docker, jenkins
 
 
 
