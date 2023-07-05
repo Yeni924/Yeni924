@@ -1,9 +1,5 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=003458&height=300&section=header&text=🌹Hi_YeEun🌹&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
-
-  
-
 ### ⚙ Tech & I Learn
 - Back-End :  C#, .Net , java, Spring5,  RDBMS(Ms-sql, Mysql)
 - Front-End : JavaScript, AngularJS, HTML/CSS
