@@ -5,14 +5,6 @@
 - Front-End : JavaScript, AngularJS, HTML/CSS
 - DevOps : aws, azure
 
-
-
-<div align="center" style="width:8000px">
-  
- [![Yeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeni924&show_icons=true&theme=radical&count_private=1&card_width=8000)](https://github.com/ktech960924)
-
-</div>
-
  
 ### Who Am I
  📫 ktech960924@gmail.com
